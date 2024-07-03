@@ -1,0 +1,5 @@
+version: '2'
+services:
+  sistema-lluvia-service:
+    build: .
+    container_name: lluvia-container
