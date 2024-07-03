@@ -194,7 +194,7 @@ Se puede ver que de la complejidad ciclomatica aqui el maximo es de 9 el cual lo
 
 Aqui construimos la imagen, en este caso no use comando porque la UI de Intellij me permite correr mediante boton.
 
-![](img/docker_build.png.png)
+![](img/docker_build.png)
 
 Aca corremos la imagen:
 
